@@ -1,1 +1,1 @@
-# Trex-Improved
+# trex
